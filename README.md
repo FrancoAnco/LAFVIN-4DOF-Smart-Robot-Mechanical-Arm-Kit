@@ -1,6 +1,6 @@
 ## LAFVIN-4DOF-Smart-Robot-Mechanical-Arm-Kit
 
-Connections are in the pdf (pag.92/118 and 95/118).
+Connections are in the pdf (pag.89/115 and 92/115).
 
 # Arduino Library
 
